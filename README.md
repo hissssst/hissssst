@@ -5,3 +5,4 @@ My projects:
 * [SecretVault](https://github.com/SecretVault-elixir/secret_vault) — Developer friendly secrets management utility.
 * [BetterNumber](https://github.com/hissssst/better_number) — Library for numbers conversion.
 * [Hexdocs Docset](https://github.com/hissssst/hexdocs_docset_api) — Project for generating Zeal and Dash docsets of elixir dependencies
+* [Nebulex.Adapters.Ecto](https://github.com/hissssst/nebulex_adapters_ecto) — Ecto Posgtres adapter for Nebulex Ecto system
