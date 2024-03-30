@@ -1,4 +1,3 @@
-Looking for contract  
 My projects or projects I maintain:
 * [Tria](https://github.com/hissssst/tria) — Optimizing Elixir compiler.
 * [Pathex](https://github.com/hissssst/pathex) — Lenses library for Elixir with focus on performance.
