@@ -1,5 +1,5 @@
 Looking for contract  
-My projects:
+My projects or projects I maintain:
 * [Tria](https://github.com/hissssst/tria) — Optimizing Elixir compiler.
 * [Pathex](https://github.com/hissssst/pathex) — Lenses library for Elixir with focus on performance.
 * [SecretVault](https://github.com/SecretVault-elixir/secret_vault) — Developer friendly secrets management utility.
