@@ -10,3 +10,4 @@ My projects or projects I maintain:
 * [Hxxp](https://github.com/hissssst/hxxp) — Minimalistic API testing tool
 * [Clickdown](https://github.com/hissssst/clickdown) — Clickup and Jira replacement
 * [rebar2mix](https://github.com/spawnfest/shaker) — Tool which automates migration of Rebar3 projects to Mix
+* [Nanolsm](https://github.com/hissssst/nanolsm) — Very small LSM Key-Value persistent database in Elixir.
