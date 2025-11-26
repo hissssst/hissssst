@@ -1,5 +1,4 @@
 My projects or projects I maintain:
-* [Tria](https://github.com/hissssst/tria) — Optimizing Elixir compiler.
 * [Pathex](https://github.com/hissssst/pathex) — Lenses library for Elixir with focus on performance.
 * [Repatch](https://github.com/hissssst/repatch) — Async-friendly Mocks and Patches in Elixir
 * [SecretVault](https://github.com/SecretVault-elixir/secret_vault) — Developer friendly secrets management utility.
@@ -11,3 +10,4 @@ My projects or projects I maintain:
 * [Clickdown](https://github.com/hissssst/clickdown) — Clickup and Jira replacement
 * [rebar2mix](https://github.com/spawnfest/shaker) — Tool which automates migration of Rebar3 projects to Mix
 * [Nanolsm](https://github.com/hissssst/nanolsm) — Very small LSM Key-Value persistent database in Elixir.
+* [Tria](https://github.com/hissssst/tria) — Optimizing Elixir compiler.
